@@ -326,9 +326,8 @@ button, input, select, textarea {
 }
 
 .logo-img {
-    height: 52px;
+    height: 65px;
     width: auto;
-    max-width: 220px;
     object-fit: contain;
     display: block;
 }
@@ -440,17 +439,15 @@ button, input, select, textarea {
 }
 
 .mobile-drawer-logo {
-    height: 42px;
+    height: 48px;
     width: auto;
-    max-width: 180px;
     object-fit: contain;
     display: block;
 }
 
 .footer-logo-img {
-    height: 48px;
+    height: 60px;
     width: auto;
-    max-width: 220px;
     object-fit: contain;
     display: block;
     margin-bottom: 18px;
